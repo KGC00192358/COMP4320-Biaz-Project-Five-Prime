@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/build",
+  "command": "/usr/bin/cc  -I/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five  -Wall -Wall   -o CMakeFiles/ServerTCP.dir/ServerTCP.c.o   -c /home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/ServerTCP.c",
+  "file": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/ServerTCP.c"
+},
+{
+  "directory": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/build",
+  "command": "/usr/bin/cc  -I/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five  -Wall -Wall   -o CMakeFiles/ClientTCP.dir/ClientTCP.c.o   -c /home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/ClientTCP.c",
+  "file": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/ClientTCP.c"
+},
+{
+  "directory": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/build/EncodeDecode",
+  "command": "/usr/bin/cc  -I/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five  -Wall -Wall   -o CMakeFiles/EncodeDecode.dir/Encoder.c.o   -c /home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/EncodeDecode/Encoder.c",
+  "file": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/EncodeDecode/Encoder.c"
+},
+{
+  "directory": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/build/EncodeDecode",
+  "command": "/usr/bin/cc  -I/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five  -Wall -Wall   -o CMakeFiles/EncodeDecode.dir/Decoder.c.o   -c /home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/EncodeDecode/Decoder.c",
+  "file": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/EncodeDecode/Decoder.c"
+},
+{
+  "directory": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/build/GenericFunctions",
+  "command": "/usr/bin/cc  -I/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five  -Wall -Wall   -o CMakeFiles/GenericFunctions.dir/Generic_Functions.c.o   -c /home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/GenericFunctions/Generic_Functions.c",
+  "file": "/home/kevin/Documents/Classes/COMP4320/homework/coding_project_five/GenericFunctions/Generic_Functions.c"
+}
+]
